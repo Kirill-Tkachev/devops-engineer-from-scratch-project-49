@@ -6,6 +6,7 @@ from brain_games.cli import welcome_user
 def is_even(number):
     return number % 2 == 0
 
+
 def game_even():
     name = welcome_user()
     print('Answer "yes" if the number is even, otherwise answer "no".')
@@ -30,8 +31,10 @@ def game_even():
 
     print(f'Congratulations, {name}!')
 
+
 def main():
     game_even()
+
 
 if __name__ == '__main__':
     main()
