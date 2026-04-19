@@ -7,3 +7,7 @@ https://asciinema.org/a/scxJ7dIgTtz2PgC5
 
 ##Демонстрация игры "Калькулятор"
 https://asciinema.org/a/DlFt9C6tucg1w7A9
+
+
+##Демонстрация игры "Наибольший общий делитель (НОД)"
+ https://asciinema.org/a/kwSgVc8XLt1bOALx
